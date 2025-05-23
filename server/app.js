@@ -27,7 +27,7 @@ app.use('/api/order',orderRoute)
 
 app.get('/', function (req, res) {
    
-    res.send('GeeksforGeeks');
+    res.send('GeeksforGeeks 34');
 });
  
 app.listen(port, function () {
