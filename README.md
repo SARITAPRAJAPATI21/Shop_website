@@ -1,5 +1,5 @@
 ## Ecommerce Website Live : https://shop-website-khaki.vercel.app/collection
-## Ecommerce adminPanel Live : https://shop-website-khaki.vercel.app/collection
+## Ecommerce adminPanel Live :https://shop-website-admin-panel.vercel.app/
 ### admin panel  email :admin@gmail.com  , pass : 123
 ## server also live : https://ecommerce-website-server-five.vercel.app/
 
