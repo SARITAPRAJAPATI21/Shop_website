@@ -16,7 +16,9 @@ connectCloudinary();
 
 //middleware
 app.use(express.json())
-app.use(cors())
+app.use(cors(
+ origin:['https://shop-website-admin-panel.vercel.app','https://shop-website-khaki.vercel.app']
+))
  
 // api endpoint
 app.use('/api/user',userRoute)
